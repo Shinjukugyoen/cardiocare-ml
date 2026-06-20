@@ -1,0 +1,16 @@
+# --- Core scientific stack (pinned for Python 3.10.x) ---
+numpy==2.2.6
+pandas==2.3.3
+scikit-learn==1.7.2
+scipy==1.15.3
+
+# --- Visualization (EDA, §5.1) ---
+matplotlib==3.10.9
+seaborn==0.13.2
+
+# --- Experiment tracking (§5.2) ---
+mlflow==3.14.0
+
+# --- Notebook execution (§5.1) ---
+notebook==7.6.0
+ipykernel==7.3.0
