@@ -1,0 +1,7 @@
+.venv/
+mlruns/
+.git/
+notebooks/
+__pycache__/
+*.pyc
+logs/
